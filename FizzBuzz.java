@@ -18,7 +18,7 @@ public class FizzBuzz {
     }
 }
     
-/* output should show the following
+/* output to show the following completing the test
 1
 2
 Fizz
